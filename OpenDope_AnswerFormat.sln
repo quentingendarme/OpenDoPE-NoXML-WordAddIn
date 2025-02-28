@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenDope_AnswerFormat", "OpenDope_AnswerFormat\OpenDope_AnswerFormat.csproj", "{E9F3B8A5-B601-45DF-B85E-DE9EC3ADB4CF}"
 EndProject
@@ -16,6 +16,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
 	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Installer", "Installer\Installer.vdproj", "{43F3BC99-91A2-480D-A56F-4CAE7946B0FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -91,6 +93,16 @@ Global
 		{973ED4AD-A9B6-4010-8919-2933D8C21735}.SingleImage|Any CPU.Build.0 = SingleImage
 		{973ED4AD-A9B6-4010-8919-2933D8C21735}.WebDeployment|Any CPU.ActiveCfg = WebDeployment
 		{973ED4AD-A9B6-4010-8919-2933D8C21735}.WebDeployment|Any CPU.Build.0 = WebDeployment
+		{43F3BC99-91A2-480D-A56F-4CAE7946B0FB}.CD_ROM|Any CPU.ActiveCfg = Debug
+		{43F3BC99-91A2-480D-A56F-4CAE7946B0FB}.Custom|Any CPU.ActiveCfg = Debug
+		{43F3BC99-91A2-480D-A56F-4CAE7946B0FB}.Debug|Any CPU.ActiveCfg = Debug
+		{43F3BC99-91A2-480D-A56F-4CAE7946B0FB}.DVD-10|Any CPU.ActiveCfg = Debug
+		{43F3BC99-91A2-480D-A56F-4CAE7946B0FB}.DVD-18|Any CPU.ActiveCfg = Debug
+		{43F3BC99-91A2-480D-A56F-4CAE7946B0FB}.DVD-5|Any CPU.ActiveCfg = Debug
+		{43F3BC99-91A2-480D-A56F-4CAE7946B0FB}.DVD-9|Any CPU.ActiveCfg = Debug
+		{43F3BC99-91A2-480D-A56F-4CAE7946B0FB}.Release|Any CPU.ActiveCfg = Release
+		{43F3BC99-91A2-480D-A56F-4CAE7946B0FB}.SingleImage|Any CPU.ActiveCfg = Debug
+		{43F3BC99-91A2-480D-A56F-4CAE7946B0FB}.WebDeployment|Any CPU.ActiveCfg = Debug
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
