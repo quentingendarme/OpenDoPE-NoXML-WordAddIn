@@ -1,0 +1,3 @@
+[submodule "OpenDoPE-Model"]
+	path = OpenDoPE-Model
+	url = https://github.com/quentingendarme/OpenDoPE-Model.git
